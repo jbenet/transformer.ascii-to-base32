@@ -1,0 +1,8 @@
+{
+ "@context": "http://transformer.io/context/transformer.jsonld",
+ "type": "conversion",
+ "input": "ascii",
+ "output": "base32",
+ "id": "ascii-to-base32",
+ "description": "ascii to base32"
+}
