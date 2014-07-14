@@ -1,6 +1,6 @@
 {
   "name": "transformer.ascii-to-base32",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "transformer conversion: ascii to base32",
   "main": "index.js",
   "transformer": "transformer.jsonld",
@@ -13,6 +13,7 @@
   ],
   "license": "MIT",
   "dependencies": {
+    "base32": "0.0.6",
     "transformer-conversion": "^0.1.2",
     "transformer-test": "^0.1.0",
     "transformer.ascii": "0.0.3",
